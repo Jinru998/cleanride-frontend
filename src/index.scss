@@ -1,0 +1,24 @@
+@import 'yet-another-react-lightbox/styles.css';
+@import './assets/css/icons.css';
+@import "./assets/scss/variables"; //
+@import "./assets/scss/switcher";
+
+@import "./assets/css/styles.css";
+@import "react-datepicker/dist/react-datepicker.css"; //datepicker
+@import "suneditor/dist/css/suneditor.min.css"; //suneditor Css
+@import 'react-perfect-scrollbar/dist/css/styles.css'; //perfectscrollbar
+
+//simonwep colorpicker
+@import "@simonwep/pickr/dist/themes/classic.min.css";
+@import "@simonwep/pickr/dist/themes/monolith.min.css";
+@import "@simonwep/pickr/dist/themes/nano.min.css";
+
+@import "react-tabulator/lib/styles.css"; // default theme
+@import "react-tabulator/css/bootstrap/tabulator_bootstrap.min.css"; // use Theme(s)
+@import "react-tabulator/lib/css/bootstrap/tabulator_bootstrap.min.css";
+
+@import 'filepond/dist/filepond.min.css'; // filepond
+@import "filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css"; // filepond
+
+@import 'leaflet/dist/leaflet.css';
+//leaflet
